@@ -1367,27 +1367,27 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV
  
  
  ---INTERNACIONALES---
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title=Internacional", ABC
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title="Internacional", ABC
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/159.m3u8
 
 
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title=Internacional", ABC HD
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title="Internacional", ABC HD
 https://247.mrgamingstreams.com/mrgamingabc.m3u8
 
 
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131031204876005406/4fac8d8aaa7d8798a512dac0322d8d14.png", group-title=Internacional", NBC HD
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131031204876005406/4fac8d8aaa7d8798a512dac0322d8d14.png", group-title="Internacional", NBC HD
 https://247.mrgamingstreams.com/mrgamingnbc.m3u8
 
 
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title=Internacional", CBS
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title="Internacional", CBS
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/161.m3u8
 
 
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title=Internacional", CBS HD
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title="Internacional", CBS HD
 https://247.mrgamingstreams.com/mrgamingcbs.m3u8
 
 
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140782823943442462/image.png?width=719&height=310", group-title=Internacional", FOX HD
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140782823943442462/image.png?width=719&height=310", group-title="Internacional", FOX HD
 https://247.mrgamingstreams.com/mrgamingfox.m3u8
 
 
