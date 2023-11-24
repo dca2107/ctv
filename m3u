@@ -1,0 +1,1564 @@
+#EXTM3U
+
+---NACIONALES---
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331424855801948/latest.png",  group-title="Nacionales", Canal 2
+http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331424855801948/latest.png",  group-title="Nacionales", Canal 2 HD
+https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331725998428200/1200px-Canal_4_TCS.png?width=719&height=513",  group-title="Nacionales", Canal 4
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331725998428200/1200px-Canal_4_TCS.png?width=719&height=513",  group-title="Nacionales", Canal 4 HD
+https://telecorporacion-es.cdn.vustreams.com/live/71c9503a-be8f-4ce4-ac17-345a96cff63a/live.isml/.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140469568578527312/image.png?width=719&height=253",  group-title="Nacionales", TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/d17513a3-9de2-47e3-b15a-899fd5f5877e.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331782206300240/Canal_6_TCS.png?width=461&height=593",  group-title="Nacionales", Canal 6
+http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331782206300240/Canal_6_TCS.png?width=461&height=593",  group-title="Nacionales", Canal 6 HD
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140454070889500672/image.png?width=462&height=593",  group-title="Nacionales", Canal 9
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140453578243326052/image.png?width=719&height=263",  group-title="Nacionales", Canal 10
+http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1169330619759742976/logo11.png",  group-title="Nacionales", Canal 11
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12
+https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/Canal12SV/Canal12SV1/chunks.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12 HD
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158480156638326814/image.png",  group-title="Nacionales", AwapaTV
+https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131787933628772483/canal19.png",  group-title="Nacionales", Canal 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131787968592486470/canal21.png",  group-title="Nacionales", Canal 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140451697764868186/logo.png",  group-title="Nacionales", TVO Canal 23
+http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158471151178231890/TVX-El-Salvador-en-vivo-Online.png",  group-title="Nacionales", TVX
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140452127521648670/image.png",  group-title="Nacionales", Órbita TV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140452806323613756/image.png?width=719&height=549",  group-title="Nacionales", Órbita FM
+https://ssh101.bozztv.com/ssh101/OrbitaFM953/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140469849202638958/image.png?width=719&height=404",  group-title="Nacionales", WOWTV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158540605509615737/image.png",  group-title="Nacionales", TVR
+ https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+
+ 
+
+---ENTRETENIMIENTO---
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762494294999080/large.png",  group-title="Entretenimiento", A Más+
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/113.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131029388801089559/2560px-A26E_Network_logo.png",  group-title="Entretenimiento", A&E
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131029388801089559/2560px-A26E_Network_logo.png",  group-title="Entretenimiento", A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131029388801089559/2560px-A26E_Network_logo.png",  group-title="Entretenimiento", A&E HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139763273777029180/large.png?width=375&height=255",  group-title="Entretenimiento", A3Series
+https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751535129104446/image.png",  group-title="Entretenimiento", Adult Swim
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TRUTVHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132466360232988752/16425357262.png",  group-title="Entretenimiento", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132466360232988752/16425357262.png",  group-title="Entretenimiento", AMC HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AMCHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132466360232988752/16425357262.png",  group-title="Entretenimiento", AMC Argentina
+https://sitsastr.qvixsolutions.com/stsa_amchd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131316975591760025/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png",  group-title="Entretenimiento", Animal Planet
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131316975591760025/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png",  group-title="Entretenimiento", Animal Planet
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131316975591760025/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png",  group-title="Entretenimiento", Animal Planet HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANIMALPLANETHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132457969020325988/200px-Antena_3.png",  group-title="Entretenimiento", Antena 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132457969020325988/200px-Antena_3.png",  group-title="Entretenimiento", Antena 3 HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ANTENA3HD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469323747836007/Programacion-AXN.png",  group-title="Entretenimiento", AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469323747836007/Programacion-AXN.png",  group-title="Entretenimiento", AXN HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AXNHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469323747836007/Programacion-AXN.png",  group-title="Entretenimiento", AXN Argentina
+https://sitsastr.qvixsolutions.com/stsa_axnhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144318750137532497/image.png",  group-title="Entretenimiento", AzCinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144318750137532497/image.png",  group-title="Entretenimiento", AzCinema HD
+https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144319006937993286/image.png",  group-title="Entretenimiento", AzClic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144319006937993286/image.png",  group-title="Entretenimiento", AzClic HD
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144319210349137991/image.png",  group-title="Entretenimiento", AzCorazón
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/117.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144319210349137991/image.png",  group-title="Entretenimiento", AzCorazón HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788254409134130/azteca.png",  group-title="Entretenimiento", Azteca Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788254409134130/azteca.png",  group-title="Entretenimiento", Azteca Internacional HD
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145567208756486264/latest.png",  group-title="Entretenimiento", CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132474789471207424/cinelatino-mediano.png",  group-title="Entretenimiento", Cine Latino
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132474763529433098/cinecanal-mediano.png",  group-title="Entretenimiento", Cinecanal
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132474763529433098/cinecanal-mediano.png",  group-title="Entretenimiento", Cinecanal HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINECANALHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132474763529433098/cinecanal-mediano.png",  group-title="Entretenimiento", Cinecanal Argentina
+https://sitsastr.qvixsolutions.com/stsa_cinecanalhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131319063319150592/1024px-Cinemax_28Yellow29.png",  group-title="Entretenimiento", Cinemax
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINEMAX)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131319063319150592/1024px-Cinemax_28Yellow29.png",  group-title="Entretenimiento", Cinemax Argentina
+https://sitsastr.qvixsolutions.com/stsa_cinemaxhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132474844261388318/comedy_central_latinoamerica-mediano.png",  group-title="Entretenimiento", Comedy Central
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132474844261388318/comedy_central_latinoamerica-mediano.png",  group-title="Entretenimiento", Comedy Central HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(COMEDYCENTRALHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158549356237029467/colorLogoPNG.png",  group-title="Entretenimiento", Comedy Central Stand Up (Pluto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751093531807744/image.png",  group-title="Entretenimiento", De Película
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DEPELICULA)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176750351987249232/image.png",  group-title="Entretenimiento", De Película Plus
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DEPELICULAPLUSHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751233323761734/2560px-Canal_DHE_logo.png",  group-title="Entretenimiento", DHE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131317090641514567/DSC_Logo_2019_Stack_BW-Reverse_RGB.png",  group-title="Entretenimiento", Discovery Channel
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131317090641514567/DSC_Logo_2019_Stack_BW-Reverse_RGB.png",  group-title="Entretenimiento", Discovery Channel HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYCHANNELHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131319202481971290/1024px-HGTV_US_Logo_2015.png",  group-title="Entretenimiento", Discovery HGTV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/225.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131319202481971290/1024px-HGTV_US_Logo_2015.png",  group-title="Entretenimiento", Discovery HGTV HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HGTVHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318603002679376/500px-Discovery_H26H_Logo_2022.png",  group-title="Entretenimiento", Discovery Home&Health
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318603002679376/500px-Discovery_H26H_Logo_2022.png",  group-title="Entretenimiento", Discovery Home&Health HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYHOMEHEALTHHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131320816282390619/1200px-InvestigationDiscoveryLogo2020.png",  group-title="Entretenimiento", Investigation Discovery
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131320816282390619/1200px-InvestigationDiscoveryLogo2020.png",  group-title="Entretenimiento", Investigation Discovery HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(INVESTIGATIONDISCOVERYHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145566574942634066/image.png?width=239&height=255",  group-title="Entretenimiento", Discovery Science
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145566574942634066/image.png?width=239&height=255",  group-title="Entretenimiento", Discovery Science HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318766907695174/1024px-2015_Discovery_theater_HD_logo.png?width=719&height=223",  group-title="Entretenimiento", Discovery Theater
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318766907695174/1024px-2015_Discovery_theater_HD_logo.png?width=719&height=223",  group-title="Entretenimiento", Discovery Theater HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTHEATERHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145566697076572170/2560px-Tlc_logo_discovery.png?width=522&height=255",  group-title="Entretenimiento", Discovery TLC
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145566697076572170/2560px-Tlc_logo_discovery.png?width=522&height=255",  group-title="Entretenimiento", Discovery TLC HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TLCHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145566697076572170/2560px-Tlc_logo_discovery.png?width=522&height=255",  group-title="Entretenimiento", Discovery TLC Argentina
+https://sitsastr.qvixsolutions.com/stsa_tlchd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318802269868113/1024px-Discovery_Turbo_logo.png?width=719&height=331",  group-title="Entretenimiento", Discovery Turbo
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318802269868113/1024px-Discovery_Turbo_logo.png?width=719&height=331",  group-title="Entretenimiento", Discovery Turbo
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/230.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318802269868113/1024px-Discovery_Turbo_logo.png?width=719&height=331",  group-title="Entretenimiento", Discovery Turbo HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYTURBOHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746866754080931/d189bd00af0db6dc6d60f176ac291bbd.png?ex=656e394f&is=655bc44f&hm=fa67c70b46c9d45405691bb67bbf5a75d3511d57b1c26523af7b94f74cc98635&=&format=webp&width=91&height=69",  group-title="Entretenimiento", Distrito Comedia
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISTRITOCOMEDIA)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131044658638753822/E-Logo-White-95x300.png",  group-title="Entretenimiento", E! Entertainment
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139759938516815933/large.png",  group-title="Entretenimiento", El Gourmet
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139759938516815933/large.png",  group-title="Entretenimiento", El Gourmet HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ELGOURMETHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139759938516815933/large.png",  group-title="Entretenimiento", El Gourmet Argentina
+https://sitsastr.qvixsolutions.com/stsa_gourmethd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145564663820599316/image.png?width=325&height=255",  group-title="Entretenimiento", Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1151335754442747915/200.png?width=150&height=150",  group-title="Entretenimiento", Estrella Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145505383541117070/image.png?width=588&height=255",  group-title="Entretenimiento", Estrella Games
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788394205302904/estrellatv.png",  group-title="Entretenimiento", Estrella TV
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475639925047376/europa_europa-mediano.png",  group-title="Entretenimiento", Europa Europa
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475639925047376/europa_europa-mediano.png",  group-title="Entretenimiento", Europa Europa HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EUROPAEUROPAHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761674790916106/large.png?width=719&height=223",  group-title="Entretenimiento", Film&Arts
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761674790916106/large.png?width=719&height=223",  group-title="Entretenimiento", Film&Arts HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FILMARTSHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176749467769249872/7b798c58-aed0-33c2-8c61-6c426eb5267e.png?ex=65700058&is=655d8b58&hm=24629f2f149b4b477508373e3c4ab355ef5cefa5c0cc791879883d903ddbd945&=&format=webp&width=255&height=255",  group-title="Entretenimiento", Food Network
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FOODNETWORKHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469726468132934/fx-log.png?width=719&height=377",  group-title="Entretenimiento", FX
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469726468132934/fx-log.png?width=719&height=377",  group-title="Entretenimiento", FX Argentina
+https://sitsastr.qvixsolutions.com/stsa_fxhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565836053057586/image.png?width=328&height=255",  group-title="Entretenimiento", Galavisión
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/174.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475891600064593/golden-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475917105643520/golden_edge-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden Edge
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475917105643520/golden_edge-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden Edge HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENEDGE)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475947430453349/golden_plus-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden Plus
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPLUSHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475947430453349/golden_plus-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden Plus HD
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475968414548069/golden_premier-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden Premier
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GOLDENPREMIERHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475968414548069/golden_premier-mediano.png?width=120&height=52",  group-title="Entretenimiento", Golden Premier HD
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476050169933834/hbo_latinoamerica-mediano.png",  group-title="Entretenimiento", HBO
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476050169933834/hbo_latinoamerica-mediano.png",  group-title="Entretenimiento", HBO Argentina
+https://sitsastr.qvixsolutions.com/stsa_hbohd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760419519594586/large.png?width=719&height=217",  group-title="Entretenimiento", HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760419519594586/large.png?width=719&height=217",  group-title="Entretenimiento", HBO 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/72.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760419519594586/large.png?width=719&height=217",  group-title="Entretenimiento", HBO 2
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBO2HD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760419519594586/large.png?width=719&height=217",  group-title="Entretenimiento", HBO 2 Argentina
+https://sitsastr.qvixsolutions.com/stsa_hbo2hd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761251191357470/large.png",  group-title="Entretenimiento", HBO Family
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/73.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761251191357470/large.png",  group-title="Entretenimiento", HBO Family HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOFAMILYHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761251191357470/large.png",  group-title="Entretenimiento", HBO Family Argentina
+https://sitsastr.qvixsolutions.com/stsa_hbofamilyhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761148200230952/large.png",  group-title="Entretenimiento", HBO Mundi
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOMUNDIHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761204659757137/large.png",  group-title="Entretenimiento", HBO Plus
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/215.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761204659757137/large.png",  group-title="Entretenimiento", HBO Plus HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPLUSHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761204659757137/large.png",  group-title="Entretenimiento", HBO Plus Argentina
+https://sitsastr.qvixsolutions.com/stsa_hboplushd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761182316703764/large.png",  group-title="Entretenimiento", HBO Pop
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOPOPHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761229842370623/large.png",  group-title="Entretenimiento", HBO Signature
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/182.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761229842370623/large.png",  group-title="Entretenimiento", HBO Signature HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOSIGNATUREHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761229842370623/large.png",  group-title="Entretenimiento", HBO Signature Argentina
+https://sitsastr.qvixsolutions.com/stsa_hbosignaturehd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761272171266129/large.png",  group-title="Entretenimiento", HBO Xtreme
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HBOEXTREMEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761272171266129/large.png",  group-title="Entretenimiento", HBO Xtreme Argentina
+https://sitsastr.qvixsolutions.com/stsa_hboxtremehd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131025254324633630/image.png",  group-title="Entretenimiento", History Channel
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131025254324633630/image.png",  group-title="Entretenimiento", History Channel HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HISTORYHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131025254324633630/image.png",  group-title="Entretenimiento", History Channel Argentina
+https://sitsastr.qvixsolutions.com/stsa_historyhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131024959335043142/image.png",  group-title="Entretenimiento", History 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131024959335043142/image.png",  group-title="Entretenimiento", History 2 HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(H2)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131024959335043142/image.png",  group-title="Entretenimiento", History 2 Argentina
+https://sitsastr.qvixsolutions.com/stsa_h2hd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565214759190598/hola-tv-350x183.png",  group-title="Entretenimiento", Hola! TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565214759190598/hola-tv-350x183.png",  group-title="Entretenimiento", Hola! TV HD
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565135935647815/image.png",  group-title="Entretenimiento", Hola! TV Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145564834784624730/image.png",  group-title="Entretenimiento", IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565483555360908/image.png",  group-title="Entretenimiento", Las Estrellas
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LASESTRELLASHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565483555360908/image.png",  group-title="Entretenimiento", Las Estrellas HD
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131023404867268642/Lifetime_Logo_2019_WHITE.png",  group-title="Entretenimiento", Lifetime
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131023404867268642/Lifetime_Logo_2019_WHITE.png",  group-title="Entretenimiento", Lifetime HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LIFETIME)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139763322191880242/large.png?width=719&height=533",  group-title="Entretenimiento", Multipremier
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139763322191880242/large.png?width=719&height=533",  group-title="Entretenimiento", Multipremier HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MULTIPREMIER)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131063278135685220/284-2843034_source-national-geographic-logo-white.png",  group-title="Entretenimiento", National Geographic
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131063278135685220/284-2843034_source-national-geographic-logo-white.png",  group-title="Entretenimiento", National Geographic HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NATIONALGEOGRAPHICHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131063278135685220/284-2843034_source-national-geographic-logo-white.png",  group-title="Entretenimiento", National Geographic Argentina
+https://sitsastr.qvixsolutions.com/stsa_natgeohd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131774632958103582/ezgif-4-95cc43910a.png",  group-title="Entretenimiento", Paramount Channel
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131774632958103582/ezgif-4-95cc43910a.png",  group-title="Entretenimiento", Paramount Channel HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PARAMOUNTHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131774632958103582/ezgif-4-95cc43910a.png",  group-title="Entretenimiento", Paramount Channel Argentina
+https://sitsastr.qvixsolutions.com/stsa_paramounthd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145526045353709608/image.png?width=384&height=255",  group-title="Entretenimiento", RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145526024822595654/image.png?width=384&height=255",  group-title="Entretenimiento", RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132467646445666304/Sony_Channel_Logo.png",  group-title="Entretenimiento", SONY Channel
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132467646445666304/Sony_Channel_Logo.png",  group-title="Entretenimiento", SONY Channel
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132467646445666304/Sony_Channel_Logo.png",  group-title="Entretenimiento", SONY Channel HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SONYHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132467646445666304/Sony_Channel_Logo.png",  group-title="Entretenimiento", SONY Channel Argentina
+https://sitsastr.qvixsolutions.com/stsa_sonyhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132467538287153172/latest.png?width=593&height=593",  group-title="Entretenimiento", SONY Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140737725385932964/image.png?width=570&height=593",  group-title="Entretenimiento", SONY Comedias
+https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132467589075972116/1200px-Sony_Movies_Logo.png?width=591&height=593",  group-title="Entretenimiento", SONY Movies
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477107507826689/space-mediano.png",  group-title="Entretenimiento", Space
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477107507826689/space-mediano.png",  group-title="Entretenimiento", Space HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(SPACEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477107507826689/space-mediano.png",  group-title="Entretenimiento", Space Argentina
+https://sitsastr.qvixsolutions.com/stsa_spacehd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139759555341992028/large.png",  group-title="Entretenimiento", Star Channel
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139759555341992028/large.png",  group-title="Entretenimiento", Star Channel HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STARCHANNELHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139759555341992028/large.png",  group-title="Entretenimiento", Star Channel Argentina
+https://sitsastr.qvixsolutions.com/stsa_starhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477294275997837/studio_universal-mediano.png",  group-title="Entretenimiento", Studio Universal
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477294275997837/studio_universal-mediano.png",  group-title="Entretenimiento", Studio Universal HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STUDIOUNIVERSAL)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145495217768759356/image.png?width=719&height=218",  group-title="Entretenimiento", TasteMade en Español
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788163011059812/telemundo.png",  group-title="Entretenimiento", Telemundo Internacional
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788163011059812/telemundo.png",  group-title="Entretenimiento", Telemundo Internacional
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEMUNDOINTERNACIONAL)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788163011059812/telemundo.png",  group-title="Entretenimiento", Telemundo Internacional
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/155.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923252241137725/tnt_fundo_escuro.png",  group-title="Entretenimiento", TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923252241137725/tnt_fundo_escuro.png",  group-title="Entretenimiento", TNT
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923252241137725/tnt_fundo_escuro.png",  group-title="Entretenimiento", TNT HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923252241137725/tnt_fundo_escuro.png",  group-title="Entretenimiento", TNT Argentina
+https://sitsastr.qvixsolutions.com/stsa_tnthd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477797596676199/tnt_series-mediano.png",  group-title="Entretenimiento", TNT Series
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TNTSERIESHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477797596676199/tnt_series-mediano.png",  group-title="Entretenimiento", TNT Series Argentina
+https://sitsastr.qvixsolutions.com/stsa_tntserieshd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458181763813417/2399px-Logo_TVE-Internacional.png",  group-title="Entretenimiento", TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458181763813417/2399px-Logo_TVE-Internacional.png",  group-title="Entretenimiento", TVE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TVE)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478183363575818/universal_tv-mediano.png",  group-title="Entretenimiento", Universal Channel
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478183363575818/universal_tv-mediano.png",  group-title="Entretenimiento", Universal Channel HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478183363575818/universal_tv-mediano.png",  group-title="Entretenimiento", Universal Channel Argentina
+https://sitsastr.qvixsolutions.com/stsa_universalhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762442285617162/large.png?ex=656aa47e&is=65582f7e&hm=dffbae3404c050dc9c67c0a8c5103c1816440e6be0861ae968acfba9989071ea&=&format=webp&width=469&height=255",  group-title="Entretenimiento", Universal Cinema
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCINEMAHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762701996916776/large.png?ex=656aa4bb&is=65582fbb&hm=c99ea972de5c4810bc8ffdc102e84beeba18f39aaece85564b3ed73ed52965ea&=&format=webp&width=469&height=255",  group-title="Entretenimiento", Universal Comedy
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCOMEDYHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762401688965140/large.png?ex=656aa474&is=65582f74&hm=383ff448c0f2bf3ea8f17077e1698ec414e42e7857c4e22bcc63a9a05d434afc&=&format=webp&width=469&height=255",  group-title="Entretenimiento", Universal Crime
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALCRIMEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762466381905950/large.png?ex=656aa483&is=65582f83&hm=7de0d4ba0bec3fa53c776ca682906f934be4685f5cd97b3941be20a13b63770a&=&format=webp&width=469&height=255",  group-title="Entretenimiento", Universal Premiere
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALPREMIERHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762722955853874/large.png?ex=656aa4c0&is=65582fc0&hm=819827ef5b1d8e4802e49fd17e8b8fbed8060f32cd4661b9cb55595c4f8d3915&=&format=webp&width=469&height=255",  group-title="Entretenimiento", Universal Reality
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(UNIVERSALREALITYHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476806247751740/universo-mediano.png",  group-title="Entretenimiento", NBC Universo
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476806247751740/universo-mediano.png",  group-title="Entretenimiento", NBC Universo HD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/164.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476806247751740/universo-mediano.png",  group-title="Entretenimiento", NBC Universo HD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788208355676201/univision.png",  group-title="Entretenimiento", Univisión
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788208355676201/univision.png",  group-title="Entretenimiento", Univisión HD
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131045383217360987/USA-Logo-Color-f83837_450x198.png?ex=656fd819&is=655d6319&hm=eb248367768367b50e6359a00207db3bfde52255e5bb92e1a01edcb09950660b&=&format=webp&width=255&height=112",  group-title="Entretenimiento", USA Network
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131045383217360987/USA-Logo-Color-f83837_450x198.png?ex=656fd819&is=655d6319&hm=eb248367768367b50e6359a00207db3bfde52255e5bb92e1a01edcb09950660b&=&format=webp&width=255&height=112",  group-title="Entretenimiento", USA Network Argentina
+https://sitsastr.qvixsolutions.com/stsa_syfyhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923204929400853/0000_all_l_warner-logo_warner_2018_-_blanco_1.png?width=592&height=592",  group-title="Entretenimiento", Warner Bros TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+
+ #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923204929400853/0000_all_l_warner-logo_warner_2018_-_blanco_1.png?width=592&height=592",  group-title="Entretenimiento", Warner Bros TV
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
+
+
+ #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923204929400853/0000_all_l_warner-logo_warner_2018_-_blanco_1.png?width=592&height=592",  group-title="Entretenimiento", Warner Bros TV HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(WARNERCHANNELHD)/index.m3u8
+
+
+ #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923204929400853/0000_all_l_warner-logo_warner_2018_-_blanco_1.png?width=592&height=592",  group-title="Entretenimiento", Warner Bros TV Argentina
+https://sitsastr.qvixsolutions.com/stsa_warnerhd/index.m3u8
+
+
+ 
+ 
+ ---NOTICIAS---
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145562183342759946/image.png?width=718&height=252",  group-title="Noticias", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145560320983695360/image.png?width=240&height=255",  group-title="Noticias", ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145560628778516520/image.png?width=308&height=255",  group-title="Noticias", Accuweather
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145561145323831406/image.png?width=718&height=197",  group-title="Noticias", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176744700523335801/info7_logo-web-v3.png",  group-title="Noticias", Azteca Info 7
+https://live.info7.mx/info7/stream.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145555114845814844/logoBBGwht-4230a564d3.png",  group-title="Noticias", Bloomberg
+https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158543578008649848/200.png",  group-title="Noticias", Caracol Ahora
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131022934127939584/CBS_News_White.png?width=719&height=96",  group-title="Noticias", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132455223785439293/ezgif-3-1b2a33d4b5.png",  group-title="Noticias", CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132455223785439293/ezgif-3-1b2a33d4b5.png",  group-title="Noticias", CNN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132455223785439293/ezgif-3-1b2a33d4b5.png",  group-title="Noticias", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132455223785439293/ezgif-3-1b2a33d4b5.png",  group-title="Noticias", CNN+
+https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1131311309636509757/2560px-Logo_de_CNN_en_EspaC3B1ol_282010-201529.png",  group-title="Noticias", CNN Español
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1131311309636509757/2560px-Logo_de_CNN_en_EspaC3B1ol_282010-201529.png",  group-title="Noticias", CNN Español
+http://190.171.101.36/CNN/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145825669998194828/image.png",  group-title="Noticias", CNN Resumen
+https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145825669998194828/image.png",  group-title="Noticias", CNN Resumen HD
+https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145782249078411354/image.png?width=356&height=208",  group-title="Noticias", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1151342112575606895/image.png?width=320&height=319",  group-title="Noticias", El Financiero · BloombergTV
+https://d3mhf0ikztdylu.cloudfront.net/out/v1/9209160a18004ef1b6760d694acb9af8/index_11.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145555506396667925/cabecera_el-pais_fff.png?width=719&height=196",  group-title="Noticias", El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145505661145337998/image.png?width=719&height=404",  group-title="Noticias", Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475663920676984/euronews-mediano.png",  group-title="Noticias", EuroNews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746806507089980/802829316a4a153748139bfb1aad9254.png",  group-title="Noticias", Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760715822006332/large.png?width=593&height=593",  group-title="Noticias", FOX News Channel
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19147/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140470273062211625/image.png?width=719&height=184",  group-title="Noticias", FOX News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145554772993265757/France24.png?width=626&height=591",  group-title="Noticias", France 24
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145556201476722738/image.png?width=454&height=255",  group-title="Noticias", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132464252335181854/ezgif-3-45efd90c69.png",  group-title="Noticias", HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139274626875265084/logo.png",  group-title="Noticias", HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132454870243356692/ezgif-3-f2d223f4b2.png",  group-title="Noticias", Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145562425060499497/image.png?width=426&height=255",  group-title="Noticias", NBC Lx
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140463993790664714/image.png?width=488&height=593",  group-title="Noticias", NBC News Now
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145562516123025448/800px-Russia-today-logo.png?width=255&height=255",  group-title="Noticias", RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140778875803140106/sky-news-logo-dark.png?width=98&height=24",  group-title="Noticias", SKY News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145563073277607966/image.png?width=233&height=255",  group-title="Noticias", TeleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145563174381309992/2048px-The_Weather_Channel_logo_2005-present.png?width=255&height=255",  group-title="Noticias", The Weather Channel
+https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746674587832340/2be1ed9ee95b850da79c61a42e426d3d.png?ex=656e3921&is=655bc421&hm=a62a8471a0cdd47b231c4284694c5625f3ff8f32d2be5bd65c5de7ca899a1a3d&=&format=webp&width=91&height=69",  group-title="Noticias", Univisión Noticias 24/7
+https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145563647440068758/image.png?width=454&height=255",  group-title="Noticias", USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1151342287616495628/image.png?width=718&height=301",  group-title="Noticias", Voz de América
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1151341419257151488/d7f1tiR8kJG84YYHTY_rWVP5IqGHKLL3LWpbWfw19hfZQb0YvY3SgHc9tF_6kJeU.png?width=384&height=384",  group-title="Noticias", Weather Nation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145563443332657233/image.png?width=698&height=255",  group-title="Noticias", Yahoo Finance
+https://yahoo-samsung.amagi.tv/playlist1080pl.m3u8
+
+ 
+ 
+ 
+ 
+ ---DEPORTES---
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145554661600940204/afizzionados-mediano.png",  group-title="Deportes", Afizzionados
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/43.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158549605479358494/image.png",  group-title="Deportes", Azteca Deportes
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/5ff464aaf89edc69bfe55de9/publish/media_950.m3u8?aid=5fea0d6c8bd443786977407e&pid=PCNrVWJ5dXUXIpgC3CEVGh0c6HxW6UB8&sid=hPiKAi4CedkkOoZliKB9FFV7Yae1cNL1&uid=KRcVLwazIu3bWIfD7i87y4hF6lziD3gA&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https&pz=us
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140745062691639346/image.png",  group-title="Deportes", BeIN Sports Xtra Ñ
+https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140745062691639346/image.png",  group-title="Deportes", BeIN Sports Xtra Ñ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140745062691639346/image.png",  group-title="Deportes", BeIN Sports Xtra Ñ
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131023058753298432/641f2c9af2602a2591d7151c_CBS20Logo.png",  group-title="Deportes", CBS Sports
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7324/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176724859171131413/LOGO-CHVDeportes-PlutoTV.png",  group-title="Deportes", Chilevisión Deportes
+https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176749113598033950/claro-logo-161532.png",  group-title="Deportes", Claro Sports
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROSPORTSHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140775095653105795/image.png",  group-title="Deportes", DAZN 1
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140774729129668769/image.png",  group-title="Deportes", DAZN 3
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/205.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140774827125395576/image.png",  group-title="Deportes", DAZN 4
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/214.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740438387601408/large.png",  group-title="Deportes", ESPN
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740438387601408/large.png",  group-title="Deportes", ESPN
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740438387601408/large.png",  group-title="Deportes", ESPN HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPNHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740465205977199/large.png",  group-title="Deportes", ESPN 2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740465205977199/large.png",  group-title="Deportes", ESPN 2
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/36.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740465205977199/large.png",  group-title="Deportes", ESPN 2 HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN2HD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740495342047345/large.png",  group-title="Deportes", ESPN 3
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740495342047345/large.png",  group-title="Deportes", ESPN 3 HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN3HD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1140740521527103638/large.png",  group-title="Deportes", ESPN 4
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140776118270570606/image.png?width=719&height=281",  group-title="Deportes", ESPN Deportes
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/167.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761744575733760/large.png?width=719&height=311",  group-title="Deportes", ESPN Extra
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/177.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176726033622384730/image.png",  group-title="Deportes", FIFA+
+https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176726033622384730/image.png",  group-title="Deportes", FIFA+
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132473777024942170/fox_deportes-mediano.png",  group-title="Deportes", FOX Deportes
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132473777024942170/fox_deportes-mediano.png",  group-title="Deportes", FOX Deportes
+https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132473777024942170/fox_deportes-mediano.png",  group-title="Deportes", FOX Deportes HD
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132473512808943616/fox_sports-mediano.png",  group-title="Deportes", FOX Sports
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132473377920122960/fox_sports_2-mediano.png",  group-title="Deportes", FOX Sports 2
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132473259372318752/fox_sports_3-mediano.png",  group-title="Deportes", FOX Sports 3
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176747024390049922/image.png",  group-title="Deportes", Gol Play
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176727032248406117/image.png",  group-title="Deportes", ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176724330009333881/208.png",  group-title="Deportes", NBC Golfpass
+https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131064508635426846/142-1421683_nbc-sports-network-logo-png-white-nbc-logo.png",  group-title="Deportes", NBC Sports
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469931116605520/i.png",  group-title="Deportes", NFL Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158548771009990766/image.png",  group-title="Deportes", Paramount+ (Pluto)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145551109700734976/image.png?width=435&height=591",  group-title="Deportes", Real Madrid TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145551109700734976/image.png?width=435&height=591",  group-title="Deportes", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145551109700734976/image.png?width=435&height=591",  group-title="Deportes", Real Madrid TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1741
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140777705223245914/image.png?width=592&height=591",  group-title="Deportes", Sky Sports La Liga
+http://45.228.232.205:16000/play/a08y/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477671176147094/tigo_sports-mediano.png",  group-title="Deportes", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477671176147094/tigo_sports-mediano.png",  group-title="Deportes", Tigo Sports
+https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/index.mpd
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761720894705715/large_tnt.png",  group-title="Deportes", TNT Sports
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761720894705715/large_tnt.png",  group-title="Deportes", TNT Sports Argentina
+https://sitsastr.qvixsolutions.com/stsa_tntsportshd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478111225741393/tyc_sports-mediano.png",  group-title="Deportes", TyC Sports
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478111225741393/tyc_sports-mediano.png",  group-title="Deportes", TyC Sports HD
+https://sitsastr.qvixsolutions.com/stsa_tychd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176724532158013520/10696ab99e6bd31833b8e8ce5216c5de.png",  group-title="Deportes", Zona TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475436039950436/espn_norte-mediano.png",  group-title="Deportes", ESPN Argentina
+https://sitsastr.qvixsolutions.com/stsa_espnhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475457820954774/espn_2_norte-mediano.png",  group-title="Deportes", ESPN 2 Argentina
+https://sitsastr.qvixsolutions.com/stsa_espn2hd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475481434890311/espn_3_norte-mediano.png",  group-title="Deportes", ESPN 3 Argentina
+https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132475503371108382/espn_4-mediano.png",  group-title="Deportes", ESPN 4 Argentina
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761695821156454/large.png",  group-title="Deportes", ESPN Premium
+https://sitsastr.qvixsolutions.com/stsa_foxsportspremiumhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761744575733760/large.png?width=719&height=311",  group-title="Deportes", ESPN Extra Argentina
+https://sitsastr.qvixsolutions.com/stsa_espnextrahd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760039553405059/large.png",  group-title="Deportes", FOX Sports Argentina
+https://sitsastr.qvixsolutions.com/stsa_foxsportshd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760355548090458/large.png",  group-title="Deportes", FOX Sports 2 Argentina
+https://sitsastr.qvixsolutions.com/stsa_foxsports2hd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139760381137530990/large.png",  group-title="Deportes", FOX Sports 3 Argentina
+https://sitsastr.qvixsolutions.com/stsa_foxsports3hd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145553229170618419/image.png",  group-title="Deportes", ESPN US
+https://kusnadipepenk.github.io/ntn/espn.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145553229170618419/image.png",  group-title="Deportes", ESPN US HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145553426818801765/image.png",  group-title="Deportes", ESPN 2 US
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/37.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145553426818801765/image.png",  group-title="Deportes", ESPN 2 US HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145553765823434825/image.png",  group-title="Deportes", ESPN News US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19154/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145553988079595570/image.png",  group-title="Deportes", Fox Sports US
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/221.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145554058279657563/image.png",  group-title="Deportes", Fox Sports 2 US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140459355188236449/image.png?width=689&height=593",  group-title="Deportes", CBS Sports Golazo
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1151331831023681586/image.png?width=591&height=591",  group-title="Deportes", USA Today Sports
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176728109140164700/latest.png",  group-title="Deportes", Sky Sports F1
+https://raw.githubusercontent.com/Ortsa8/stream/main/sports/ssf1.m3u8
+
+ 
+
+---INFANTILES--- 
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145559904791318579/baby_latinoamerica-mediano.png?width=120&height=52",  group-title="Infantiles", Baby TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145558622206689422/BabyFirstTV-Logo.png?width=454&height=255",  group-title="Infantiles", Babyfirst
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/150.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145558622206689422/BabyFirstTV-Logo.png?width=454&height=255",  group-title="Infantiles", Babyfirst HD
+https://i.mjh.nz/SamsungTVPlus/INBC280001662.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176747113867124787/800px-Boing_2020.png",  group-title="Infantiles", Boing
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458518587383968/ezgif-3-c6c8395015.png",  group-title="Infantiles", Cartoon Network
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458518587383968/ezgif-3-c6c8395015.png",  group-title="Infantiles", Cartoon Network  HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONNETWORKHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458518587383968/ezgif-3-c6c8395015.png",  group-title="Infantiles", Cartoon Network  Argentina
+https://sitsastr.qvixsolutions.com/stsa_cartoonhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131321688580182137/latest.png",  group-title="Infantiles", Cartoonito
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131321688580182137/latest.png",  group-title="Infantiles", Cartoonito HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CARTOONITO)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176747274257313834/Tve_clan.png",  group-title="Infantiles", Clan
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318700574781531/215px-Discovery_Kids_Logo_2021-Presente.png",  group-title="Infantiles", Discovery Kids
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318700574781531/215px-Discovery_Kids_Logo_2021-Presente.png",  group-title="Infantiles", Discovery Kids HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYKIDSHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318700574781531/215px-Discovery_Kids_Logo_2021-Presente.png",  group-title="Infantiles", Discovery Kids Argentina
+https://sitsastr.qvixsolutions.com/stsa_discoverykidshd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762518642925578/large.png?width=718&height=330",  group-title="Infantiles", Disney Argentina
+https://sitsastr.qvixsolutions.com/stsa_disneyhd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762518642925578/large.png?width=718&height=330",  group-title="Infantiles", Disney HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYCHANNELHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145559777427083414/disney_junior-mediano.png?width=120&height=52",  group-title="Infantiles", Disney Jr.
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISNEYJUNIORHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139761653219590145/large.png?width=719&height=423",  group-title="Infantiles", Dreamworks Channel
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476869514645514/nick_jr-mediano.png",  group-title="Infantiles", Nick Jr.
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476869514645514/nick_jr-mediano.png",  group-title="Infantiles", Nick Jr. HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(NICKJR)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132476891434070096/nick_music-mediano.png",  group-title="Infantiles", Nick Music
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458409157996594/ezgif-3-c0bacf963a.png",  group-title="Infantiles", Nickelodeon
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477369727328296/teen_nick-mediano.png",  group-title="Infantiles", Teen Nick
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TEENNICKHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145558466505752676/1200px-PBS_Kids_logo_28202229.png?width=255&height=255",  group-title="Infantiles", PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478822684557342/showlogo.png?width=719&height=583",  group-title="Infantiles", Tooncast
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478822684557342/showlogo.png?width=719&height=583",  group-title="Infantiles", Tooncast HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TOONCAST)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132478601116274748/zoomoo-mediano.png",  group-title="Infantiles", ZooMoo
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+
+ 
+ 
+ 
+ 
+ ---MÚSICA---
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762565250027621/large.png",  group-title="Música", MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762565250027621/large.png",  group-title="Música", MTV HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478438926721035/vh1-mediano.png",  group-title="Música", VH1
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/107.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478438926721035/vh1-mediano.png",  group-title="Música", VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145520683477119091/image0.png",  group-title="Música", iHeart 80's Hits
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145520721896935494/image0.png",  group-title="Música", iHeart 90's Hits
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145520982208024576/image0.png",  group-title="Música", iHeart Latino
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751750947029054/California_Music_Channel_Logo.png",  group-title="Música", CMC
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746898584649809/19dccef175686e991df488c1cc378737.png",  group-title="Música", Telehit
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHIT)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746915399602206/a61ae44c45a04ee7cdb2717cb9f114ed.png",  group-title="Música", Telehit Música
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHITMUSICA)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752035144663080/image.png",  group-title="Música", HTV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
+
+ 
+ 
+ 
+ 
+ ---INTERNACIONALES---
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title=Internacional", ABC
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/159.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title=Internacional", ABC HD
+https://247.mrgamingstreams.com/mrgamingabc.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131031204876005406/4fac8d8aaa7d8798a512dac0322d8d14.png", group-title=Internacional", NBC HD
+https://247.mrgamingstreams.com/mrgamingnbc.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title=Internacional", CBS
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/161.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title=Internacional", CBS HD
+https://247.mrgamingstreams.com/mrgamingcbs.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140782823943442462/image.png?width=719&height=310", group-title=Internacional", FOX HD
+https://247.mrgamingstreams.com/mrgamingfox.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458236377833554/2084px-Logo_TVE-24h.png?width=694&height=592",  group-title="Internacional", 24h
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:12_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458236377833554/2084px-Logo_TVE-24h.png?width=694&height=592",  group-title="Internacional", 24h HD
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145558212695834644/image.png?width=254&height=255",  group-title="Internacional", 24 Horas Chile
+https://marine2.miplay.cl/24horas/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762589627330601/large.png?width=718&height=164",  group-title="Internacional", Azteca Uno
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762589627330601/large.png?width=718&height=164",  group-title="Internacional", Azteca Uno
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176753594322665503/1200px-KGO-TV_logo.png",  group-title="Internacional", ABC7 KGO · Bay Area
+https://content-ausc1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399/c.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316948&pbs=83484b6ffc0244f78e10e9aa794dce97
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145558351598600282/image.png?width=253&height=255",  group-title="Internacional", BBC America
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131030443760824350/Bravo-Logo-All-platform-AssetsBravo-Logo-White-905x300.png",  group-title="Internacional", Bravo
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/192.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131063127442731028/cinelife_logo.png",  group-title="Internacional", CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132457440219254784/ezgif-3-ff4637daa6.png",  group-title="Internacional", DKISS
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132457391603060736/ezgif-3-b07bcea516.png",  group-title="Internacional", DMAX
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145557629263954031/image.png?width=205&height=255",  group-title="Internacional", El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145557862198804560/336.png?width=252&height=150",  group-title="Internacional", El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144315192608563300/bOofvK5O7xh5ttmZHpF626-gcxWC2rbi7DxGgbAqUhtQK0nQqHga-0Kv1H2kNgcNmos9B0Tp4Kpu.png",  group-title="Internacional", FOX Soul
+https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
+
+
+#EXTINF: -1 , tvg-logo="",  group-title="Internacional", ION Plus
+https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458042408050778/2295px-Logo_TVE-1.png?width=664&height=593",  group-title="Internacional", La 1
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458042408050778/2295px-Logo_TVE-1.png?width=664&height=593",  group-title="Internacional", La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458113639927838/823px-Logo_TVE-2.png?width=635&height=593",  group-title="Internacional", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144315543667626065/logo-bajada-verde.png?width=299&height=255",  group-title="Internacional", La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144398590496743586/image.png",  group-title="Internacional", La Sexta
+https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:11_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145556647813582919/image.png?width=719&height=173",  group-title="Internacional", Lifetime
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/193.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144319622397562991/image.png?width=719&height=207",  group-title="Internacional", MEGA
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144316096724344972/image.png?width=392&height=278",  group-title="Internacional", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140099316946583572/800px-Multimedios_Canal_Seis_Logo.png?width=182&height=255",  group-title="Internacional", Multimedios 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144320354546880693/image.png?width=286&height=278",  group-title="Internacional", MyTV · KCWX
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752150437707796/2560px-Logotipo_de_Cuatro.png",  group-title="Internacional", Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752223141761054/800px-Neox_2023_logo.png",  group-title="Internacional", neox
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752270730338345/2560px-Nova.png",  group-title="Internacional", nova
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:14_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752875402174484/125px-FactorC3ADa_de_FicciC3B3n.png",  group-title="Internacional", Factoría de Ficción
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:16_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752693075779595/image.png",  group-title="Internacional", Energy
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176753378903195698/Be-Mad.png",  group-title="Internacional", BE MAD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752820028985354/image.png",  group-title="Internacional", Divinity
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/manifest.m3u8
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1177367955797966878/Smithsonian-Transparent.png", group-title=Internacional", Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477577194373150/telemadrid-mediano.png",  group-title="Internacional", TeleMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176753040368336906/1024px-La_Otra_logo_28201729.png",  group-title="Internacional", TeleMadrid La Otra
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788163011059812/telemundo.png",  group-title="Internacional", Telemundo
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145556867519614986/image.png",  group-title="Internacional", TMZ
+https://d2dimalv43j51f.cloudfront.net/out/v1/52d3048e53eb42a7959dc347d2f810e2/index_1.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1138923252241137725/tnt_fundo_escuro.png",  group-title="Internacional", TNT US
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/172.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477902655602708/tru_tv-mediano.png", group-title=Internacional", TruTV US
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1144316992703180800/image.png",  group-title="Internacional", TVN
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131045383217360987/USA-Logo-Color-f83837_450x198.png",  group-title="Internacional", USA Network
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/191.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132456564473729044/ezgif-3-dc025e09bc.png",  group-title="Internacional", Imagen Televisión
+http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
+
+
+
+
+
+
