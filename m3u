@@ -38,7 +38,7 @@ http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1169330619759742976/logo11.png",  group-title="Nacionales", Canal 11
-https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12
