@@ -1058,6 +1058,10 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manife
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1180266671949238332/image.png",  group-title="Deportes", NBC Golf
+https://kusnadipepenk.github.io/ntn/nbc.m3u8
+
+
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176724330009333881/208.png",  group-title="Deportes", NBC Golfpass
 https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 
