@@ -794,6 +794,10 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1180263246930903130/image.png", group-title=Noticias", CBNC
+https://247b.mrgamingstreams.com/mrgamingcnbc.m3u8
+
+
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131022934127939584/CBS_News_White.png?width=719&height=96",  group-title="Noticias", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -810,7 +814,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419c
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
-#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132455223785439293/ezgif-3-1b2a33d4b5.png",  group-title="Noticias", CNN+
+#EXTINF: -1 , tvg-logo="https://cdn.discordapp.com/attachments/1129189482025996399/1132455223785439293/ezgif-3-1b2a33d4b5.png",  group-title="Noticias", CNN
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 
 
@@ -954,6 +958,10 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7324/index.m3u8
 
 
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131023058753298432/641f2c9af2602a2591d7151c_CBS20Logo.png",  group-title="Deportes", CBS Sports HD
+https://247c.mrgamingstreams.com/mrgamingcbssn.m3u8
+
+
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176724859171131413/LOGO-CHVDeportes-PlutoTV.png",  group-title="Deportes", Chilevisión Deportes
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
@@ -1067,6 +1075,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131064508635426846/142-1421683_nbc-sports-network-logo-png-white-nbc-logo.png",  group-title="Deportes", NBC Sports
+https://247b.mrgamingstreams.com/mrgamingphilly.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132469931116605520/i.png",  group-title="Deportes", NFL Channel
@@ -1115,6 +1124,10 @@ http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478111225741393/tyc_sports-mediano.png",  group-title="Deportes", TyC Sports HD
 https://sitsastr.qvixsolutions.com/stsa_tychd/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478111225741393/tyc_sports-mediano.png",  group-title="Deportes", TyC Sports HD
+https://247b.mrgamingstreams.com/mrgamingtyc.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176724532158013520/10696ab99e6bd31833b8e8ce5216c5de.png",  group-title="Deportes", Zona TUDN
@@ -1376,7 +1389,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/159.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145445981501018222/image.png?width=608&height=591", group-title="Internacional", ABC HD
-https://247.mrgamingstreams.com/mrgamingabc.m3u8
+https://247c.mrgamingstreams.com/mrgamingabc.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131031204876005406/4fac8d8aaa7d8798a512dac0322d8d14.png", group-title="Internacional", NBC HD
@@ -1388,7 +1401,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/161.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132455071481856020/ezgif-3-1956ab3c01.png", group-title="Internacional", CBS HD
-https://247.mrgamingstreams.com/mrgamingcbs.m3u8
+https://247b.mrgamingstreams.com/mrgamingcbs.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140782823943442462/image.png?width=719&height=310", group-title="Internacional", FOX HD
