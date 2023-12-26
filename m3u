@@ -523,6 +523,10 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
 
 
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145564834784624730/image.png",  group-title="Entretenimiento", IVC HD
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/IVCNETWORKS/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DIVCNETWORKS_stream_fl&_cdn_meta=userID%3D1642591434%2CdeviceID%3D535683365&_cdn_session=1695669116&_cdn_timestamp=1703622919&_cdn_token=c3d138153549fb657ff344254da0b0139987d5bd
+
+
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145565483555360908/image.png",  group-title="Entretenimiento", Las Estrellas
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(LASESTRELLASHD)/index.m3u8
 
@@ -1444,8 +1448,12 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 
-#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176753594322665503/1200px-KGO-TV_logo.png",  group-title="Internacional", ABC7 KGO · Bay Area
-https://content-ausc1.uplynk.com/channel/7c0eae0d267941d283a3ab14dd6fd399/c.m3u8?ad._v=2&ad.preroll=0&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316948&pbs=83484b6ffc0244f78e10e9aa794dce97
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176753594322665503/1200px-KGO-TV_logo.png",  group-title="Internacional", KABC 7 News
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1189255630389792898/cropped-fox-4-logo-1-1.png",  group-title="Internacional", FOX 4
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145558351598600282/image.png?width=253&height=255",  group-title="Internacional", BBC America
