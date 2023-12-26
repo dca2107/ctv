@@ -631,6 +631,10 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(STA
 https://sitsastr.qvixsolutions.com/stsa_starhd/index.m3u8
 
 
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1189248688585969814/350.png",  group-title="Entretenimiento", Star TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
+
+
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477294275997837/studio_universal-mediano.png",  group-title="Entretenimiento", Studio Universal
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 
@@ -685,6 +689,10 @@ http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458181763813417/2399px-Logo_TVE-Internacional.png",  group-title="Entretenimiento", TVE
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TVE)/index.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458181763813417/2399px-Logo_TVE-Internacional.png",  group-title="Entretenimiento", TVE HD
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478183363575818/universal_tv-mediano.png",  group-title="Entretenimiento", Universal Channel
@@ -1254,6 +1262,10 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CAR
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176747274257313834/Tve_clan.png",  group-title="Infantiles", Clan
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.m3u8
+
+
+#EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176747274257313834/Tve_clan.png",  group-title="Infantiles", Clan Internacional
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
 
 
 #EXTINF: -1 , tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131318700574781531/215px-Discovery_Kids_Logo_2021-Presente.png",  group-title="Infantiles", Discovery Kids
