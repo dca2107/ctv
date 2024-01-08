@@ -1353,7 +1353,7 @@ http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762565250027621/large.png",  group-title="Música", MTV HD
-## https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live
@@ -1361,7 +1361,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live HD
-## https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478438926721035/vh1-mediano.png",  group-title="Música", VH1
