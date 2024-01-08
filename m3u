@@ -1353,7 +1353,7 @@ http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762565250027621/large.png",  group-title="Música", MTV HD
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
+## https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live
@@ -1361,7 +1361,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live HD
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+## https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132478438926721035/vh1-mediano.png",  group-title="Música", VH1
@@ -1389,19 +1389,15 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746898584649809/19dccef175686e991df488c1cc378737.png",  group-title="Música", Telehit
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHIT)/index.m3u8
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140746915399602206/a61ae44c45a04ee7cdb2717cb9f114ed.png",  group-title="Música", Telehit Música
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHITMUSICA)/index.m3u8
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
 
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/108.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176751900876619816/1024px-MTV_Live_2021_logo.png",  group-title="Música", MTV Live HD
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1193953763422109797/telehit_musica_plus-mediano.png",  group-title="Música", Telehit Música Plus
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176752035144663080/image.png",  group-title="Música", HTV
@@ -1454,6 +1450,14 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762589627330601/large.png?width=718&height=164",  group-title="Internacional", Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+
+
+#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1193954981997457508/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-375w.png",  group-title="Internacional", Canal 5*
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+
+#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1193954981997457508/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-375w.png",  group-title="Internacional", Canal 5*
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176753594322665503/1200px-KGO-TV_logo.png",  group-title="Internacional", KABC 7 News
