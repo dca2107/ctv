@@ -2,29 +2,18 @@
 
 ---NACIONALES---
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331424855801948/latest.png",  group-title="Nacionales", Canal 2
-http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331424855801948/latest.png",  group-title="Nacionales", Canal 2 HD
 https://telecorporacion-es.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331725998428200/1200px-Canal_4_TCS.png?width=719&height=513",  group-title="Nacionales", Canal 4
-http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331725998428200/1200px-Canal_4_TCS.png?width=719&height=513",  group-title="Nacionales", Canal 4 HD
 https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/live/.m3u8
+
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140469568578527312/image.png?width=719&height=253",  group-title="Nacionales", TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/d17513a3-9de2-47e3-b15a-899fd5f5877e.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331782206300240/Canal_6_TCS.png?width=461&height=593",  group-title="Nacionales", Canal 6
-http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331782206300240/Canal_6_TCS.png?width=461&height=593",  group-title="Nacionales", Canal 6 HD
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/a242095a-c49d-4263-b9ae-5958f5e0c9a1.m3u8
 
 
@@ -41,11 +30,7 @@ https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12
-https://d273tvzn6z86cs.cloudfront.net/Canal12SV/d8d7dedcfe37a9a9da9d9f69058b82b7.sdp/Canal12SV/Canal12SV1/chunks.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12 HD
-http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158480156638326814/image.png",  group-title="Nacionales", AwapaTV
@@ -978,7 +963,7 @@ https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1176749113598033950/claro-logo-161532.png",  group-title="Deportes", Claro Sports
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROSPORTSHD)/index.m3u8
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140775095653105795/image.png",  group-title="Deportes", DAZN 1
@@ -1110,7 +1095,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1741
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140777705223245914/image.png?width=592&height=591",  group-title="Deportes", Sky Sports La Liga
-http://45.228.232.205:16000/play/a08y/index.m3u8
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132477671176147094/tigo_sports-mediano.png",  group-title="Deportes", Tigo Sports
@@ -1451,6 +1436,14 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 
 
+#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762589627330601/large.png",  group-title="Internacional", Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+
+#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139762589627330601/large.png",  group-title="Internacional", Azteca Guate
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1193954981997457508/canal_5_logo__2016_actualidad__by_fanmmsskittles_df094zq-375w.png",  group-title="Internacional", Canal 5*
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
@@ -1504,7 +1497,7 @@ https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458042408050778/2295px-Logo_TVE-1.png?width=664&height=593",  group-title="Internacional", La 1
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132458042408050778/2295px-Logo_TVE-1.png?width=664&height=593",  group-title="Internacional", La 1
@@ -1583,7 +1576,7 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manife
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131788163011059812/telemundo.png",  group-title="Internacional", Telemundo
-http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1145556867519614986/image.png",  group-title="Internacional", TMZ
@@ -1607,4 +1600,4 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/191.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1132456564473729044/ezgif-3-dc025e09bc.png",  group-title="Internacional", Imagen Televisión
-http://66.70.176.103:8081/LATINO%7CIMAGENTVR/LATINO%7CIMAGENTVR/chunks.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
