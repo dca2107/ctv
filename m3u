@@ -2,19 +2,19 @@
 
 ---NACIONALES---
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331424855801948/latest.png",  group-title="Nacionales", Canal 2
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
+https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live-video=2000000.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331725998428200/1200px-Canal_4_TCS.png?width=719&height=513",  group-title="Nacionales", Canal 4
-https://telecorporacion.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/.m3u8
+https://telecorporacion.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live-audio_0=64000.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140469568578527312/image.png?width=719&height=253",  group-title="Nacionales", TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live-audio_0=64000.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331782206300240/Canal_6_TCS.png?width=461&height=593",  group-title="Nacionales", Canal 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-audio_0=64000.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140454070889500672/image.png?width=462&height=593",  group-title="Nacionales", Canal 9
@@ -30,7 +30,7 @@ https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158480156638326814/image.png",  group-title="Nacionales", AwapaTV
