@@ -4,4 +4,4 @@
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="group1",NAME="MPD Stream",URI="https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd"
 
 #EXT-X-STREAM-INF:BANDWIDTH=1000000
-https://github.com/dca2107/ctv/raw/refs/heads/main/hls/A3Series.m3u8
+https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
