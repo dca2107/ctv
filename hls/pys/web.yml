@@ -2,8 +2,7 @@ name: grabbing streams
 
 on:
   schedule:
-    - cron: '* * * * *'  # Se ejecutará cada hora
-  
+    - cron: '* * * * *'  # Se ejecutará cada minuto
   workflow_dispatch:
 
 jobs:
@@ -24,8 +23,6 @@ jobs:
         run: |
           pwd
           cd ./hls/pys/
-
-          # Ejecutar el script de Python para extraer los streams
           python3 web.py https://conceptoweb-studio.com/radio/video/tvo/ ../hls/SV-23-TVO.m3u8
 
       # Agregar cambios al GitHub repo
@@ -33,9 +30,9 @@ jobs:
         run: |
           git add -A
           ls -la 
-      
+
       # Commit y push de los cambios
       - name: commit & push
         run: |
-          git commit -m "Canal actualizado"
+          git commit -m "Canal actualizado" || echo "No hay cambios para hacer commit"
           git push
