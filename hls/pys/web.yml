@@ -18,16 +18,15 @@ jobs:
         run: |
           git config --global user.email "<>"
           git config --global user.name "Update"
-      
+
       # Extracción y actualización de los archivos M3U8
       - name: grab m3u8 files
         run: |
           pwd
           cd ./hls/pys/
 
-          # Comando para extraer streams y guardarlos en el directorio `streams`
-          python3 web.py https://conceptoweb-studio.com/radio/video/tvo/ > ../hls/SV-23-TVO.m3u8
-
+          # Ejecutar el script de Python para extraer los streams
+          python3 web.py https://conceptoweb-studio.com/radio/video/tvo/ ../hls/SV-23-TVO.m3u8
 
       # Agregar cambios al GitHub repo
       - name: git add
