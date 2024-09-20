@@ -2,7 +2,7 @@
 header('Content-Type: application/vnd.apple.mpegurl');
 
 // Directorio local donde se almacenan los M3U8 temporales
-$path = "/ctv/hls/SV-23-TVO.m3u8"; // Ruta local en el servidor (no URL HTTP)
+$path = "github.com/dca2107/ctv/blob/main/hls/SV-23-TVO.m3u8"; // Ruta local en el servidor (no URL HTTP)
 $files = glob($path . "*.m3u8");
 
 echo "#EXTM3U\n";
