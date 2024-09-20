@@ -1,7 +1,0 @@
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" type="static">
-    <Period>
-        <AdaptationSet>
-            <BaseURL>https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd</BaseURL>
-        </AdaptationSet>
-    </Period>
-</MPD>
