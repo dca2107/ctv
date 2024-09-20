@@ -2,7 +2,7 @@ name: grabbing streams
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Se ejecutará cada hora
+    - cron: '* * * * *'  # Se ejecutará cada hora
   
   workflow_dispatch:
 
