@@ -1,0 +1,15 @@
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" 
+     profile="urn:mpeg:dash:profile:isoff-on-demand:2011" 
+     type="static">
+
+    <BaseURL>https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd</BaseURL>
+
+    <Period id="period1">
+        <AdaptationSet>
+            <Representation id="subMpd" mimeType="application/dash+xml">
+                <BaseURL>https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd</BaseURL>
+            </Representation>
+        </AdaptationSet>
+    </Period>
+
+</MPD>
