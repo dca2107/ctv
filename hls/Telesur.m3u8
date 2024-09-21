@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Pistas de audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Español",LANGUAGE="es",URI="https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Inglés",LANGUAGE="en",URI="https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/.m3u8"
+
+# Pistas de video
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",NAME="Video Español",LANGUAGE="es",URI="https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",NAME="Video Inglés",LANGUAGE="en",URI="https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/.m3u8"
+
+# La lista de reproducción principal (video)
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720,AUDIO="audio",VIDEO="video"
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1280x720,AUDIO="audio",VIDEO="video"
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/.m3u8
