@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://live-b.cf.dmcdn.net/sec2(AmkVDgsxklL2xJ0Rg3VkW_JcD0gpzhJJ9Ye4Sm4NhRhHv7ecfdQwJbFlhOU1HNeuv1d72SnetdoI6_AOqq91tRITjErhhssLsAGx1NcXuW0)/dm/3/x90qe0k/d/live-720.m3u8
