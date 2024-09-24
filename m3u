@@ -22,8 +22,7 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140453578243326052/image.png?width=719&height=263",  group-title="Nacionales", Canal 10
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN-AR.m3u8
 
 #EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Canal11SVTUTV.webp",  group-title="Nacionales", Canal 11
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
