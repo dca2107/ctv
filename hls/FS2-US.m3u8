@@ -4,4 +4,7 @@
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
+http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
 http://212.102.60.231/FOX_Sports_2/index.m3u8
