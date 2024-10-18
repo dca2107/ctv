@@ -2,11 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/91df0b8c-70ea-4b79-818c-e7fdb1a7986b:TUL/variant/5449dbc6debf751bbfc246c98316698c/bandwidth/1320000.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=91df0b8c-70ea-4b79-818c-e7fdb1a7986b%3ATUL&pid=pdRwqFLzYJF0PdzSSwo617kp97vLLtzd&sid=7S0oVMPS7oZFVDBzOXqqFPRqZ0rQVsXg&uid=75y7ahCe6HH4TpJpPVCFNoOx9GNYVJJM&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1727190313848&ot=uZeIQ--m_kP8VH36AqCWEQ&proto=https&pz=us
-
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/2939994e-5973-4cfc-98a0-ce0cd3c5f4d6:CBF2/variant/9ac39ca064a4fd331521945d4f6823a7/bandwidth/915200.m3u8
-
-##https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
