@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/763866067a6cb6aee3ad6d3d93868fd3.m3u8
+
+##https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
