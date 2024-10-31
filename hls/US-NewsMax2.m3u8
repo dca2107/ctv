@@ -1,5 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
