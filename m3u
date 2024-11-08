@@ -1,71 +1,68 @@
 #EXTM3U
 
 ---NACIONALES---
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331424855801948/latest.png",  group-title="Nacionales", Canal 2
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live-video=2000000.m3u8
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV2.png",  group-title="Nacionales", Canal 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-2.m3u8
 
 
-#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Canal4SV.webp",  group-title="Nacionales", Canal 4
-https://telecorporacion.cdn.vustreams.com/live/9c79f472-bb4d-4ab8-848f-eb613f3b1f96/live.isml/live-audio_0=64000.m3u8
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV4.webp",  group-title="Nacionales", Canal 4
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-4.m3u8
 
 
-#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Canal6SV.webp",  group-title="Nacionales", TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live-audio_0=64000.m3u8
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV-TCSPlus.png",  group-title="Nacionales", TCS+
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-TCSPlus.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131331782206300240/Canal_6_TCS.png?width=461&height=593",  group-title="Nacionales", Canal 6
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-audio_0=64000.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-6.m3u8
 
 
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140454070889500672/image.png?width=462&height=593",  group-title="Nacionales", Canal 9
-https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/07d20a6743cc3303461553dbfa2bdadd36a2877c/images/SV9.svg",  group-title="Nacionales", Canal 9
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-9-Legislativa.m3u8
 
 
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140453578243326052/image.png?width=719&height=263",  group-title="Nacionales", Canal 10
-https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN-AR.m3u8
-
-#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Canal11SVTUTV.webp",  group-title="Nacionales", Canal 11
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV10.webp",  group-title="Nacionales", Canal 10
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-10.m3u8
 
 
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1141069996194275348/image.png?width=618&height=593",  group-title="Nacionales", Canal 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV11.webp",  group-title="Nacionales", Canal 11
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-11-TUTV.m3u8
+
+
+#EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV12.png",  group-title="Nacionales", Canal 12
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-12.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158480156638326814/image.png",  group-title="Nacionales", AwapaTV
-https://mgv-awapa.univtec.com/hls/live/2104282/MGV_CHANNEL15/master.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-15-Awapa.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Canal19SV.webp",  group-title="Nacionales", Canal 19
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-19.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Canal21SV.webp",  group-title="Nacionales", Canal 21
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-21.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140451697764868186/logo.png",  group-title="Nacionales", TVO Canal 23
-http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-23-TVO.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158471151178231890/TVX-El-Salvador-en-vivo-Online.png",  group-title="Nacionales", TVX
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVX.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-23-TVX.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140452127521648670/image.png",  group-title="Nacionales", Órbita TV
-https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140452806323613756/image.png?width=719&height=549",  group-title="Nacionales", Órbita FM
-https://ssh101.bozztv.com/ssh101/OrbitaFM953/playlist.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-25-Orbita.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1140469849202638958/image.png?width=719&height=404",  group-title="Nacionales", WOWTV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-WOWTV.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1158540605509615737/image.png",  group-title="Nacionales", TVR
- https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-TVR.m3u8
 
  
 
@@ -75,15 +72,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/113.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131029388801089559/2560px-A26E_Network_logo.png",  group-title="Entretenimiento", A&E
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131029388801089559/2560px-A26E_Network_logo.png",  group-title="Entretenimiento", A&E
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-
-
-#EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1131029388801089559/2560px-A26E_Network_logo.png",  group-title="Entretenimiento", A&E HD
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(AEHD)/index.m3u8
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AE.m3u8
 
 
 #EXTINF: -1, tvg-logo="https://media.discordapp.net/attachments/1129189482025996399/1139763273777029180/large.png?width=375&height=255",  group-title="Entretenimiento", A3Series
