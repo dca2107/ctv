@@ -2,12 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
 http://190.92.10.66:4000/play/a001/index.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-http://181.78.109.49:8000/play/a06r/index.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-http://45.5.117.182:8000/play/jnl0/index.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-http://181.78.105.146:2000/play/a08m/index.m3u8
+##http://181.78.109.49:8000/play/a06r/index.m3u8
+##http://45.5.117.182:8000/play/jnl0/index.m3u8
+##http://181.78.105.146:2000/play/a08m/index.m3u8
