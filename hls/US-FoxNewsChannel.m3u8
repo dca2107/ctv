@@ -3,6 +3,4 @@
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
 https://fl5.moveonjoy.com/FOX_News_Channel/index.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+##https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
