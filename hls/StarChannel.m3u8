@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-https://streamer1.nexgen.bz/STAR/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/STAR/index.m3u8
