@@ -1,0 +1,627 @@
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV2.png", group-title="Nacionales", Canal 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-2.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV4.webp", group-title="Nacionales", Canal 4
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-4.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV-TCSPlus.png", group-title="Nacionales", TCS+
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-TCSPlus.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV6.webp", group-title="Nacionales", Canal 6
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-6.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/07d20a6743cc3303461553dbfa2bdadd36a2877c/images/SV9.svg", group-title="Nacionales", Canal 9
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-9-Legislativa.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV10.webp", group-title="Nacionales", Canal 10
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-10.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV11.webp", group-title="Nacionales", Canal 11
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-11-TUTV.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV12.png", group-title="Nacionales", Canal 12
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-12.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV-Awapa.webp", group-title="Nacionales", AwapaTV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-15-Awapa.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/7d3f8e31ee1eecd8f2cde1734896880b72b4589e/images/SV19.svg", group-title="Nacionales", Canal 19
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-19.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV21.png", group-title="Nacionales", Canal 21
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-21.m3u8
+
+#EXTINF: -1 , tvg-logo="https://github.com/dca2107/ctv/blob/main/images/SV-TVO.png?raw=true", group-title="Nacionales", TVO Canal 23
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-23-TVO.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV-TVX.webp", group-title="Nacionales", TVX
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-23-TVX.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Nacionales", Órbita
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-25-Orbita.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Nacionales", WOWTV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-WOWTV.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Nacionales", TVR
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SV-TVR.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/SV-TVM.webp", group-title="Nacionales", TVM
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TVM.m3u8
+
+
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", A&E
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AE.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Adult Swim
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AdultSwim.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", AMC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AMC.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/AnimalPlanet.webp", group-title="Entretenimiento", Animal Planet
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AnimalPlanet.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", AXN
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AXN.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", AzCinema
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AztecaCinema.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", AzClic
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AztecaClic.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/AzCorazon.png", group-title="Entretenimiento", AzCorazón
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AztecaCorazon.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/AztecaTV.webp", group-title="Entretenimiento", Azteca Internacional
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AztecaInternacional.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Cine Latino
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CineLatino.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Cinecanal
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Cinecanal.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Cinemax
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Cinemax.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Comedy Central
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ComedyCentral.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Comedy Central Stand Up (Pluto)
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ComedyCentral-StandUp.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", DHE
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DHE.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DiscoveryChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery Home&Health
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HomeHealth.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery ID
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DiscoveryID.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery Theater
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DiscoveryTheater.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery TLC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TLC.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery Turbo
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DiscoveryTurbo.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Discovery World
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DiscoveryWorld.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Estrella Cine
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/EstrellaCine.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Estrella Games
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/EstrellaGames.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Estrella TV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/EstrellaTV.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Film&Arts
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FilmArts.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Food Network
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoodNetwork.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", FX
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FX.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Galavisión
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-Galavision.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Golden
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Golden.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", HBO
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HBO.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", HBO 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HBO2.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", HBO Family
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HBOFamily.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", HBO Plus
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HBOPlus.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", HBO Xtreme
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HBOXtreme.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", History Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HistoryChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", History 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/History2.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Hola! TV Play
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HolaTVPlay.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Imagen Televisión
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ImagenTelevision.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Las Estrellas
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MX-LasEstrellas.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Lifetime
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Lifetime.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Multipremier
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Multipremier.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", National Geographic
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/NationalGeographic.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Paramount Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Paramount.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", RCN Más
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/RCNMas.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", RCN Xtra
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/RCNXtra.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", SONY Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SonyChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", SONY Cine
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SonyCine.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", SONY Comedias
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SonyComedias.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", SONY Movies
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SonyMovies.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Space
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Space.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Star Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/StarChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Star TVE
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/StarTVE.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", TasteMade en Español
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Tastemade.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", TNT
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TNT.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", TNT Series
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TNTSeries.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", TVE
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TVE.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Unimás
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-Unimas.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Universal Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Universal.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Universal Cinema
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/UniversalCinema.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Universal Comedy
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/UniversalComedy.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Entretenimiento", Universal Crime
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/UniversalCrime.m3u8
+
+#EXTINF: -1 , tvg-logo="https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/images/Univision.webp", group-title=""Entretenimiento", Univisión
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Univision.m3u8
+
+
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", ABC News
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-ABCNewsLive.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", ABC News Australia
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AU-ABCNews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Accuweather
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Accuweather.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", ADN 40
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ADN40.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Azteca Info 7
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MX-AztecaInfo7.m3u8
+
+#EXTINF: -1 , tvg-logo="https://github.com/dca2107/ctv/blob/main/images/BBCNews.png?raw=true", group-title="Noticias", BBC News
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-BBCWorldNews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Bloomberg
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Bloomberg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Caracol Ahora
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CaracolAhora.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", CBS News
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CBSNews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", CNN
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CNNInternational.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", CNN Fast
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CNNFast.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", CNN Español
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CNNEspanol.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", CNBC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CNBC.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", DW
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DW.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", El País
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ElPais.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Estrella News
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/EstrellaNews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", EuroNews
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Euronews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Foro TV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ForoTV.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX News Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FoxNewsChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX BussinessChannel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FoxBussinessChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX News Now
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FoxNewsNow.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", France 24
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/France24.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", HispanTV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HispanTV.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", HLN
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/HLN.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", MSNBC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-MSNBC.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Milenio Televisión
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Milenio.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", NewsMax
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NewsMax.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", NewsMax 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NewsMax2.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", NBC Lx
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NBCLx.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", NBC News Now
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NBCNewsNow.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", RT Español
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/RT.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", SKY News
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SkyNews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", TeleSur
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Telesur.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", The Weather Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TheWeatherChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", USA Today
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-USATodayNews.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Weather Nation
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/WeatherNation.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", Yahoo Finance
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/YahooFinance.m3u8
+
+
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Azteca Deportes
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/AztecaDeportes.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", BeIN Sports Xtra Ñ
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/BeINSportsXtraN.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", CBS Sports
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CBS-Sports.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", CBS Sports HQ
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CBS-Sports-PL.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", CBS Sports Golazo
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CBS-SportsGolazoNetwork.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Claro Sports
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ClaroSports.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", DAZN La Liga
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DAZNLaLiga.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", DirecTV Sports
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DirecTVSports.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", DirecTV Sports 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DirecTVSports2.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", DirecTV Sports +
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DirecTVSportsPlus.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 2 México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN2-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 3 México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN3-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 4 México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN4-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 5 México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN5-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 6 México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN6-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN Deportes
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPNDeportes.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Deportes
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxDeportes.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Sports México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSports1-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Sports 2 México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSports2-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Sports Premium México
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSportsPremium-Mex.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Fubo Sports Network
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FuboSportsNetwork.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ITV Deportes
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ITVDeportes.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Movistar La Liga
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MovistarLaLiga.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", NBC Sports
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NBCSports.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", NBC Sports Pluto
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NBCSports-Pluto.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", NFL Channel
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/NFLChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Paramount+ (Pluto)
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Real Madrid TV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/RealMadridTV.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Tigo Sports
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TigoSports.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", TUDN
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TUDN.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN Colombia
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN-Col.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN Argentina
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN-Arg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 2 Argentina
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN2-Arg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", ESPN 3 Argentina
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ESPN3-Arg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Sports Argentina
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSports1-Arg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Sports 2 Argentina
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSports2-Arg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FOX Sports 3 Argentina
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSports3-Arg.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FS1 US
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FS1.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FS2 US
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FS2.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FS1 Tubi
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FoxSports-Tubi.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", FS1 Pluto
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FS1-Pluto.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", USA Today Sports
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-USATodaySports.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Deportes", Sky Sports La Liga
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/SkySportsLaLiga.m3u8
+
+
+
+
+
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Cartoon Network
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CartoonNetwork.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Cartoonito
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Cartoonito.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Clan
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Clan.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Discovery Kids
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DiscoveryKids.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Disney
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DisneyChannel.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Disney Jr.
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/DisneyJunior.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Nick Jr.
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/NickJr.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Nick Music
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/NickMusic.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Nickelodeon
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Nickelodeon.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Infantiles", Tooncast
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/Tooncast.m3u8
+
+
+
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", CMC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CMC.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", iHeart 80's Hits
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/iHeart80s.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", iHeart 90's Hits
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/iHeart90s.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", iHeart Latino
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/iHeartLatino.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", MTV
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-MTV.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", MTV Biggest Pop
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MTVBiggestPop.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", MTV Classic
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-MTVClassic.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", MTV Live
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-MTVLive.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", TeleRitmo
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/TeleRitmo.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", Vevo Latino
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/VevoLatino.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", Vevo Pop
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/VevoPop.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Música", VH1
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-VH1.m3u8
+
+
+
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", ABC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-ABC.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", NBC
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-NBC.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", CBS
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-CBS.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", FOX
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FOX.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", 24 H
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ES-24H.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", 24 Horas Chile
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CL-24Horas.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", Azteca Uno
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MX-AztecaUno.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", Azteca Guate
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/GT-Azteca.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", A Más Guate
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/GT-AMas.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", BBC America
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-BBCAmerica.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", FOX Soul
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/FoxSoul.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", ion
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ion.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", ion Plus
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ionPlus.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", La 1
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ES-La1.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", La 2
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ES-La2.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", La Red
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CL-LaRed.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", Multimedios CDMX
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MX-Multimedios.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", Telemundo
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-Telemundo.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", Telemundo PR
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/PR-Telemundo.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", TBS US
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-TBS.m3u8
+
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", TNT US
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-TNT.m3u8
