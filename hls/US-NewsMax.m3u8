@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Inglés",LANGUAGE="en",URI="https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index_cc.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,GROUP-ID="subs"
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index_1080.m3u8
