@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-##http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
+##http://fl3.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
 ##https://cdn1-9p.teleuptv.net/53d2c41f-912b-4590-8a70-1bf12fb083a9/tracks-v5a1/rewind-28800.m3u8
