@@ -584,6 +584,9 @@ https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/CL-24Horas.m3u
 #EXTINF: -1 , tvg-logo="", group-title="Internacional", Azteca Uno
 https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MX-AztecaUno.m3u8
 
+#EXTINF: -1 , tvg-logo="", group-title="Internacional", Azteca 7
+https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/MX-Azteca7.m3u8
+
 #EXTINF: -1 , tvg-logo="", group-title="Internacional", Azteca Guate
 https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/GT-Azteca.m3u8
 
