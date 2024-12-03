@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Inglés",LANGUAGE="en",URI="https://nmxdistro.akamaized.net/hls/live/529965/Live_1/5.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,GROUP-ID="subs"
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/1.m3u8
 ##https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
