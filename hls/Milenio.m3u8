@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream/610178c7db32a4112d994650/publish/media_2500.m3u8?aid=60e33365f98bf10830efcb7d&pid=lVweSZeTm5dPS3CK4bcS2BYTpjVaX0fc&sid=ef8sml6M5dMrHb8ycNcvlYZEJzqfkKrW&uid=1lJlPL9thSaHU28Udmd42ttivash8CRp&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1733350999929&ot=nOaQ9w8nt0v9b1aURxKH6g&proto=https&pz=us
+http://181.78.105.146:2000/play/a00y/43439702.m3u8
 ##https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
