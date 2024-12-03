@@ -299,7 +299,7 @@ https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/ForoTV.m3u8
 #EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX News Channel
 https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FoxNewsChannel.m3u8
 
-#EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX BussinessChannel
+#EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX Bussiness Channel
 https://raw.githubusercontent.com/dca2107/ctv/refs/heads/main/hls/US-FoxBussinessChannel.m3u8
 
 #EXTINF: -1 , tvg-logo="", group-title="Noticias", FOX News Now
