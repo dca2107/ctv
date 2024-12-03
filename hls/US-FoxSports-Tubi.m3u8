@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports2.m3u8
+https://csm-e-cetubiausw2live204-0c955bba89f7cef19.csm.tubi.video/csm/live/443098356/5.m3u8;jsessionid=22C190071E8980627363C7ED9D16F76A.csm-e-cetubiausw2live204-0c955bba89f7cef19.csm.tubi.video?playback_start_ts=1733262411.341&externalId=Fox-Sports2
+##https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports2.m3u8
