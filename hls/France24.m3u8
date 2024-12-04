@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+https://a-cdn.klowdtv.com/live2/france24sp_720p/chunks.m3u8
