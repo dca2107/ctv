@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://live-b.cf.dmcdn.net/sec2(AmkVDgsxklL2xJ0Rg3VkW_JcD0gpzhJJ9Ye4Sm4NhRhHv7ecfdQwJbFlhOU1HNeuv1d72SnetdoI6_AOqq91tRITjErhhssLsAGx1NcXuW0)/dm/3/x90qe0k/d/live-720.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61de8d4b8acf6c0007f1c2f3livestitch/2977920/playlist.m3u8?terminate=false&sid=f88db29d-b1de-11ef-8a2e-8a62ad116224&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
