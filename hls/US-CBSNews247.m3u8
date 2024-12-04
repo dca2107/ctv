@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8
+##https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcdalivestitch/2977920/playlist.m3u8?terminate=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&appVersion=unknown&deviceType=web&deviceMake=Chrome
+##https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/460f7f3d-ccd8-40cd-bed1-f00805fdde66:GRQ/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3338376.m3u8
