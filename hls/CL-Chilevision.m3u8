@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407livestitch/2977920/playlist.m3u8?terminate=false&sid=f88db29d-b1de-11ef-8a2e-8a62ad116224&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
