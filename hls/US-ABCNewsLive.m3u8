@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="avc1.640029,mp4a.40.2"
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://content-auso1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/e.m3u8?pbs=3589a1e3a0a94cbdb90704e1838af3bb
 ##https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master_4000.m3u8
 ##https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
