@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Inglés",LANGUAGE="en",URI="https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlistwebvtt.m3u8"
-
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=1920x1080,GROUP-ID="subs"
-https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,GROUP-ID="subs"
+https://d3696l48vwq25d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/526bdf1f-f095-40de-b27b-5b420049d4b7/0.m3u8
+##https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+##https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 ##https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
