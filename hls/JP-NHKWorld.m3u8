@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Inglés",LANGUAGE="en",URI="https://bmcc.nhkworld.jp/vtt/es/webvtt.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,GROUP-ID="subs"
+https://bmcc.nhkworld.jp/live/index_1M.m3u8
+##https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+
+
