@@ -2,5 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+##https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 ##https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
