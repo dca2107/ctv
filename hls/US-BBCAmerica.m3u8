@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,CODECS="avc1.640029,mp4a.40.2"
 https://bcovlive-a.akamaihd.net:443/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/profile_0/chunklist.m3u8
 ##http://fl1.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.m3u8
