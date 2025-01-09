@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1920x1080,CODECS="avc1.640029,mp4a.40.2"
-https://d1kvlt93j1bc49.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/../../../../../../../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/bffd7d1a-dda4-4671-88da-14af636f8b98/5.m3u8
+https://d1kvlt93j1bc49.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/9bd0fa4e-22a6-451b-9d1a-fad52594b9da/5.m3u8
 ##https://stream1.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 ##https://fl1.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.m3u8
