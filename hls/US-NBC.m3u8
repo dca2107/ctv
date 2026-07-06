@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,CODECS="avc1.640029,mp4a.40.2"
-http://fl1.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
-##http://fl3.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.m3u8
-##https://cdn1-9p.teleuptv.net/53d2c41f-912b-4590-8a70-1bf12fb083a9/tracks-v5a1/rewind-28800.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3d1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2QxOjE3ODMzOTEwNDcxMzQ6Y2RubGl2ZXR2LnR2OjRkMzI4MDZlMjJlZjA1MzYuMjU2NDgzNGMxMzIyNjczMjlhMThhYTExNmU1N2I2MzIwMWJiNDljOGRjNDg4MDllMWM2MThkYzI0ZTBjNGNkZA
